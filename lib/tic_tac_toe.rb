@@ -57,7 +57,6 @@ end
     move(board, index, current_player)
     display_board(board)
   elsif !valid_move?(board, index)
-  puts "Invalid Move"
     turn(board)
   end
 end
