@@ -125,6 +125,8 @@ def winner (board)
   end
 end
 
+def play(board)
+end
 
 
 
