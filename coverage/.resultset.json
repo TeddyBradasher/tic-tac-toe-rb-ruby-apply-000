@@ -3,11 +3,11 @@
     "coverage": {
       "/home/ultimate-certificate-0521/tic-tac-toe-rb-ruby-apply-000/lib/tic_tac_toe.rb": [
         1,
-        2,
-        2,
-        2,
-        2,
-        2,
+        4,
+        4,
+        4,
+        4,
+        4,
         null,
         null,
         1,
@@ -61,14 +61,14 @@
         3,
         3,
         2,
-        0,
+        2,
         null,
         1,
         null,
         null,
         null,
         1,
-        3,
+        6,
         null,
         null,
         1,
@@ -129,6 +129,6 @@
         null
       ]
     },
-    "timestamp": 1590990910
+    "timestamp": 1590991049
   }
 }
