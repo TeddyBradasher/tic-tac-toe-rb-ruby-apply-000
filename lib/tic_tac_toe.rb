@@ -135,7 +135,5 @@ def play(board)
       puts "Tie!"
     end
   end
-end
-
 
 
