@@ -126,11 +126,13 @@ def winner (board)
 end
 
 def play(board)
-  if !over?(board)
+  while !over?(board)
     turn(board)
   end
     if won?(board)
-      winner
+      puts "Congrats!"
+      elsif draw?(board) = true
+      puts "Tie!"
 end
 
 
