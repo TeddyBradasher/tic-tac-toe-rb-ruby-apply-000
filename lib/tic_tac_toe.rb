@@ -56,7 +56,7 @@ end
   if valid_move?(board, index)
     move(board, index)
     display_board(board)
-  elsif !valid_move?
+  elsif !valid_move?(board,index)
     turn(board)
   end
 end
