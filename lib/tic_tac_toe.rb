@@ -40,7 +40,7 @@ end
     return "O"
   end
 end
-  
+
 def turn(board)
   puts "Please enter 1-9:"
   input = gets.strip
@@ -127,5 +127,3 @@ def play(board)
       puts "Cat's Game!"
     end
   end
-
-
