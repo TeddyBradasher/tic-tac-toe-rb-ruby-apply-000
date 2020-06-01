@@ -41,16 +41,6 @@ end
   end
 end
   
-  def play(board)
-  action = 0
-  until action == 9
-  action += 1
-    turn(board)
-  end 
-end 
-  
-
-
 def turn(board)
   puts "Please enter 1-9:"
   input = gets.strip
