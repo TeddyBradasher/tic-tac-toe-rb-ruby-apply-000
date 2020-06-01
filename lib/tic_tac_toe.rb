@@ -133,6 +133,8 @@ def play(board)
       puts "Congrats!"
       elsif draw?(board) = true
       puts "Tie!"
+    end
+  end
 end
 
 
