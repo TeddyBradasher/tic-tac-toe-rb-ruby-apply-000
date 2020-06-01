@@ -131,7 +131,7 @@ def play(board)
   end
     if won?(board)
       puts "Congrats!"
-      elsif draw?(board) = true
+      elsif draw?(board)
       puts "Tie!"
     end
   end
