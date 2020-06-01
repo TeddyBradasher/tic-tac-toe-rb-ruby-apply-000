@@ -63,7 +63,7 @@ def turn(board)
   end
 end
 
- def move(board, index, current_player = "X")
+ def move(board, index)
   board[index] = current_player
 end 
   
