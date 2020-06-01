@@ -57,6 +57,7 @@ end
     move(board, index)
     display_board(board)
   elsif !valid_move?(board, index)
+  puts "Invalid Move"
     turn(board)
   end
 end
