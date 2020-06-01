@@ -126,7 +126,7 @@ def winner (board)
 end
 
 def play(board)
-  winner(board) = w
+  w = winner(board)
   while !over?(board)
     turn(board)
   end
